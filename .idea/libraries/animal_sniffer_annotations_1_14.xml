@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="animal-sniffer-annotations-1.14">
+    <CLASSES>
+      <root url="jar://D:/LibrariesJava/jar_files/animal-sniffer-annotations-1.14.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/checker-compat-qual-2.0.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/commons-exec-1.3.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/error_prone_annotations-2.1.3.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/guava-25.0-jre.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/jsr305-1.3.9.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/okhttp-3.11.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/okio-1.14.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-api-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-chrome-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-edge-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-firefox-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-ie-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-opera-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-remote-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-safari-driver-3.141.0.jar!/" />
+      <root url="jar://D:/LibrariesJava/jar_files/selenium-support-3.141.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/LibrariesJava/jar_files/jsr305-1.3.9.jar!/" />
+    </SOURCES>
+  </library>
+</component>
